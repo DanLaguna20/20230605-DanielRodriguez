@@ -1,0 +1,33 @@
+  256  git add .
+  257  git commit -m "commit 01  de DanielRodriguez"
+  258  git push origin main
+  259  git branch feature01
+  260  git switch
+  261  git switcj feature01
+  262  git switch feature01
+  263  mkdir Terminal
+  264  mkdir Hardware
+  265  cd Terminal/
+  266  touch.resumen.txt
+  267  cd ..
+  268  cd Terminal/
+  269  touch resumen.txt
+  270  cd ..
+  271  cd Hardware/
+  272  touch resumen.txt
+  273  git add .
+  274  git status
+  275  cd ..
+  276  git add .
+  277  git status
+  278  git commit -m "commit 02 de DanielRodriguez"
+  279  git push origin feature01
+  280  git branch feature02
+  281  git switch feature02
+  282  git add .
+  283  git status
+  284  git commit -m "commit 03 de DanielRodriguez"
+  285  git push origin feature02
+  286  git switch main
+  287  git comandos.txt comandosUtilizados.txt
+  288  history 100
