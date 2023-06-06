@@ -1,0 +1,3 @@
+GPU
+SSD
+Memoria RAM
